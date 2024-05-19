@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to Twinkle's GitHub Profile!
+# Welcome to My GitHub Profile!
 
 <!--![Profile Banner](link_to_banner_image)-->
 
