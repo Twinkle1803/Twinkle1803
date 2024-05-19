@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# Welcome to My GitHub Profile!
 
+# Welcome to My GitHub Profile!
+-->
 <!--![Profile Banner](link_to_banner_image)-->
 
 ## About Me
