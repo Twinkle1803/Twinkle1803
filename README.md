@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am currently in my final year of BTech, very passionate about Machine Learning.
 <!--
 **Twinkle1803/Twinkle1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
