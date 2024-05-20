@@ -8,9 +8,9 @@ Welcome to my GitHub profile! Here's a glimpse of what you'll find here:
 
 ### Featured Projects
 
-- **[Project Name 1](link_to_project_1)**: Brief description of the project.
+<!--- **[Project Name 1](link_to_project_1)**: Brief description of the project.-->
 - **[Fake News Detection](https://github.com/Twinkle1803/ML-Project-)**: Various models compared against their accuracy on the basis of textual data giving an accuracy of 95%. 
-- **[Project Name 3](link_to_project_3)**: Brief description of the project.
+- **[SheRises](https://github.com/Twinkle1803/SheRise)**: A web application catering woman's needs like health & lifestyle related problems.
 
 Check out the repositories to explore these projects in more detail!
 
